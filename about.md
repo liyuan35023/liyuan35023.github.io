@@ -43,7 +43,7 @@ from usetc
 
 
 <center>
-    <p><img src="http://d.pcs.baidu.com/thumbnail/07f255fc57db7d017e9fc11bef20188f?fid=805840743-250528-971314296231695&time=1443600000&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-hzvbpmtdP84IXK%2BX7fZlCutbd2o%3D&rt=sh&expires=2h&r=983969662&sharesign=unknown&size=c710_u500&quality=100" align="center"></p>
+    <p><img src="http://i13.tietuku.com/8acd959204797b74.jpg" align="center"></p>
 </center>
 
 
