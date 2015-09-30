@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "About"
-description: "学苟知本，六经皆我注脚 "
+description: "人生如梦，一尊还酹江月 "
 header-img: "img/green.jpg"
 ---
 
@@ -10,62 +10,40 @@ header-img: "img/green.jpg"
     <p><img src="http://7xlfkx.com1.z0.glb.clouddn.com/white2.jpg" align="center"></p>
 </center>
 
-我是陈素封，每天千字践行者，践行时间：2014年02月10日至2015年02月23日，感谢这段经历，让我成为了现在的我。
-
-现在研习 **认知写作学** 。
+liyuan35023
+from usetc
 
 ###坚信
 
 
-- 元认知乃一切之源
-- 学苟知本，六经皆我注脚 
-- 一切技能皆可习得，包括写作
-- 「持续」并不是坚持，写就是最好的回报
+-永远相信美好的事情即将发生
 
 
 ###关注：
 
 
-- [元认知](http://www.mesule.com/)
-- 写作
+- C++
 - Python
-- [阳志平](http://www.yangzhiping.com/)
-- [ZoomQuiet](http://blog.zoomquiet.io/)
+- NS3
+- [廖雪峰](http://http://www.liaoxuefeng.com/)
+- [anzhuangguai](http://blog.csdn.net/anzhuangguai)
 
 
 
-
-###代表作：
-
-- [《24款最值得推荐的中文字体》](http://cnfeat.com/blog/2015/05/22/a-24-chinese-fonts/)
-
-- [《世界并非如你所见——用可供性来发现更大的世界》](http://cnfeat.com/blog/2015/05/01/affordance/)
-
-- [《如何正确地练习写作》](http://cnfeat.com/blog/2015/03/02/how-to-write/)
-
-
-###我的朋友们
-
-- [YiLee](http://yilee.me)
-- [Caos](http://caos.me)
-- [BuzhiNote](http://BuzhiNote.com)
-- [Azeril](http://azeril.me)
 
 ###联系
 
-- [博客：www.cnfeat.com](www.cnfeat.com)
+- [博客：liyuan35023.github.io](http://liyuan35023.github.io)
 
-- [微博@CnFeat](http://weibo.com/207775270)
+- [微博@liyuan35023](http://weibo.com/1843963135/)
 
-- [知乎@陈素封](http://www.zhihu.com/people/Feat)
+- [知乎@liyuan35023](http://www.zhihu.com/people/li-yuan-27-71)
 
-- [知乎专栏](http://zhuanlan.zhihu.com/cnfeat)
-
-- 公众号：cnfeat
+- 微信：liyuan35023
 
 
 <center>
-    <p><img src="http://i173.photobucket.com/albums/w63/cnfeat/2015-08-29-2_zpsqj7po8eo.png" align="center"></p>
+    <p><img src="http://d.pcs.baidu.com/thumbnail/07f255fc57db7d017e9fc11bef20188f?fid=805840743-250528-971314296231695&time=1443600000&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-hzvbpmtdP84IXK%2BX7fZlCutbd2o%3D&rt=sh&expires=2h&r=983969662&sharesign=unknown&size=c710_u500&quality=100" align="center"></p>
 </center>
 
 
