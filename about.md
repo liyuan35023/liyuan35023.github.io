@@ -7,7 +7,7 @@ header-img: "img/green.jpg"
 
 
 <center>
-    <p><img src="http://i11.tietuku.com/f7033b5098c74aca.jpg"></p>
+    <p><img src="http://i11.tietuku.com/f7033b5098c74aca.jpg" align="center"></p>
 </center>
 
 liyuan35023
