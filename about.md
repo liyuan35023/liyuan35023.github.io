@@ -25,7 +25,7 @@ from usetc
 - C++
 - Python
 - NS3
-- [廖雪峰](http://http://www.liaoxuefeng.com/)
+- [廖雪峰](http://www.liaoxuefeng.com/)
 - [anzhuangguai](http://blog.csdn.net/anzhuangguai)
 
 
