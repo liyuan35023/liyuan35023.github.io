@@ -1,27 +1,26 @@
 # Site settings
-title: 读立写生
+title:  蕴缘
 header-img: "img/facebook.jpg"
 tagline: "cn"  
-description: "陈素封|读而立·写而生"  
+description: "李源|蕴灵·起缘"  
 baseurl: ""
-url: "http://cnfeat"  
+url: "http://liyuan35023.github.io"  
 
 # About/contact
 owner: 
-  name: " CnFeat"
-  email: CnFeat@gmail.com
-  bio: "写就是写的报酬"
+  name: " liyuan35023"
+  email: liyuan_35023@163.com
+  bio: "人生如梦,一尊还酹江月"
 
 # Data
 gavatar: http://dreamofbook.qiniudn.com/Az..png
 favicon: img/favicon.png
 
-douban_username:  cnfeat
-twitter_username: feat
-github_username: cnfeat
+douban_username:  liyuan35023
+github_username: liyuan35023
 facebook_username: 
-weibo_username: cnfeat 
-zhihu_username: feat
+weibo_username: liyuan35023 
+zhihu_username: liyuan35023
 
 # Build settings  
 # use Github Flavored Markdown !important  
@@ -51,9 +50,9 @@ defaults:
 comments :
   provider : duoshuo
   duoshuo :
-    short_name : cnfeat
+    short_name : liyuan35023
   disqus :
-      short_name : cnfeat
+      short_name : liyuan35023
 
 # Analytics and webmaster tools stuff goes here
 google_analytics: 
