@@ -10,11 +10,11 @@ description: Keep learning~
 
 #Keynote
 
-* os模块的重要函数或变量：
+1. os模块的重要函数或变量：
  
- - os.name，操作系统类型。(linux->posix,windows->nt)
+ - `os.name`，操作系统类型。(linux->posix,windows->nt)
  
-- `os.uname()`，详细系统信息。(windows不支持此函数)
+ - `os.uname()`，详细系统信息。(windows不支持此函数)
  - `os.environ`，环境变量；os.environ.get('key')，获得某个环境变量的值。
 操作文件和目录：
  - `os.path.abspath('.')`，查看当前目录的绝对路径。
@@ -30,7 +30,7 @@ description: Keep learning~
  - `os.path.isdir(x)`，x是否为目录。
  - `os.path.isfile(x)`，x是否为文件。
 
-* Exercis：
+2. Exercis：
 
 编写一个程序，能在当前目录以及当前目录的所有子目录下查找文件名包含指定字符串的文件，并打印出相对路径。
 	
