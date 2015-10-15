@@ -5,19 +5,19 @@ date: 2015-10-15
 categories: blog
 tags: [Python]
 description: Keep learning~
-
 ---
 
 #Keynote
 
-1. os模块的重要函数或变量：
+* os模块的重要函数或变量：
  
- - `os.name`，操作系统类型。(linux->posix,windows->nt)
+  - `os.name`，操作系统类型。(linux->posix,windows->nt)
  
- - `os.uname()`，详细系统信息。(windows不支持此函数)
- - `os.environ`，环境变量；os.environ.get('key')，获得某个环境变量的值。
+  - `os.uname()`，详细系统信息。(windows不支持此函数)
+  - `os.environ`，环境变量；os.environ.get('key')，获得某个环境变量的值。
+
 操作文件和目录：
- - `os.path.abspath('.')`，查看当前目录的绝对路径。
+  - `os.path.abspath('.')`，查看当前目录的绝对路径。
  - `os.path.join('/Users/michael', 'testdir')`，在某个目录下创建一个新目录，首先把新目录的完整路径表示出来。
  - `os.mkdir('/Users/michael/testdir')`，然后创建一个目录。
  - `os.rmdir('/Users/michael/testdir')`，删除一个目录。
@@ -25,7 +25,8 @@ description: Keep learning~
  - `os.path.splitext('/path/to/file.txt)`，获取文件的扩展名。
  - `os.rename('tset.txt','test.py')`，对文件重命名。
  - `os.remove('test.py')`，删除文件。
- 过滤文件：
+ 
+过滤文件：
  - `os.listdir('.')`，列出当前目录下的所有目录和文件。
  - `os.path.isdir(x)`，x是否为目录。
  - `os.path.isfile(x)`，x是否为文件。
