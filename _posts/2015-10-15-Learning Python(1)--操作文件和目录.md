@@ -12,7 +12,7 @@ description: Keep learning~
 
 * os模块的重要函数或变量：
 
- - `os.name`，操作系统类型。(linux->posix,windows->nt)
+ - os.name，操作系统类型。(linux->posix,windows->nt)
  - `os.uname()`，详细系统信息。(windows不支持此函数)
  - `os.environ`，环境变量；os.environ.get('key')，获得某个环境变量的值。
 操作文件和目录：
