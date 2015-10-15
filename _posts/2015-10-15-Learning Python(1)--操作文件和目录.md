@@ -8,6 +8,7 @@ description: Keep learning~
 
 ---
 #Keynote
+
 * os模块的重要函数或变量：
  - `os.name`，操作系统类型。(linux->posix,windows->nt)
  - `os.uname()`，详细系统信息。(windows不支持此函数)
@@ -25,6 +26,7 @@ description: Keep learning~
  - `os.listdir('.')`，列出当前目录下的所有目录和文件。
  - `os.path.isdir(x)`，x是否为目录。
  - `os.path.isfile(x)`，x是否为文件。
+
 * Exercise：
 
 编写一个程序，能在当前目录以及当前目录的所有子目录下查找文件名包含指定字符串的文件，并打印出相对路径。
@@ -47,6 +49,7 @@ description: Keep learning~
 		        search_file(filename,os.path.join(path,x))
 
         search_file('test.txt')
+        
 >os.path.isdir(os.path.join(path,x))
 
 >os.path.isfile(os.path.join(path,x))
