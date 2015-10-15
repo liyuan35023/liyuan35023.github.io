@@ -3,7 +3,7 @@ layout: post
 title: Mount EMei
 date: 2015-10-08
 categories: blog
-tags: [峨眉,旅游]
+tags: [旅游]
 description: the last time went to emei!
 
 
