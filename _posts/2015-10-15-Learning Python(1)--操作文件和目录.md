@@ -27,7 +27,7 @@ description: Keep learning~
  - `os.path.isfile(x)`，x是否为文件。
 * Exercise：
 编写一个程序，能在当前目录以及当前目录的所有子目录下查找文件名包含指定字符串的文件，并打印出相对路径。
-        -*— coding:utf-8 -*-
+	-*— coding:utf-8 -*-
         import os
         def search_file(filename,path='.'):
 	        content=os.listdir(path)
