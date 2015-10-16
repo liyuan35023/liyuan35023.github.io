@@ -1,3 +1,12 @@
+---
+layout: post
+title: Unix Network Programming(1)---基本概念说法
+date: 2015-10-16
+categories: blog
+tags: [Unix]
+description: Keep learning~
+---
+
 #一个简单的时间获取函数
 
     #include 'unp'   //包含自己编写的头文件，该头文件包含大多数网络程序都需要的许多系统头文件，
