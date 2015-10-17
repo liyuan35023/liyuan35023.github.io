@@ -3,23 +3,14 @@
 
 &ensp;&ensp;&ensp;&ensp;但当程序出错时终止程序运行是普遍情况，我们可以通过定义**包裹函数**来缩短程序。包裹函数的作用就是，完成实际的函数调用，并检查返回值，并在发生错误时终止进程。约定包裹函数名为实际函数名首字母大写形式。
 
-```
-int
-
-Socket(int family,int type,int protocol)
-
-{
-
-	int n;
-	
-	if ( (n=socket(family,type,protocol))<0)
-	
-		err_sys("socket error");
-		
-	return(n);
-	
-}
-```
+	int
+	Socket(int family,int type,int protocol)
+	{
+		int n;
+		if ( (n=socket(family,type,protocol))<0)
+			err_sys("socket error");
+		return(n);
+	}
 
 ***FIXME：***
 &ensp;&ensp;&ensp;&ensp;线程函数的包裹函数
