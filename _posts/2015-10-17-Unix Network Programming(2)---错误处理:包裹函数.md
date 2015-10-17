@@ -1,3 +1,11 @@
+---
+layout: post
+title: Unix Network Programming(2)---错误处理:包裹函数
+date: 2015-10-16
+categories: blog
+tags: [Unix]
+description: Keep learning~
+---
  
 &ensp;&ensp;&ensp;&ensp;程序一般都需要检查**每个**函数调用是否返回错误。个别情况下，当函数返回错误时，我们想做的事并非简单的终止程序的运行，还可能需要检查系统调用是否被中断。
 
